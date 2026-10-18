@@ -1,0 +1,1 @@
+print("Hello, PyCharm! Automation starts now.")

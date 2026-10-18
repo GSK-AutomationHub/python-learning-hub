@@ -1,0 +1,13 @@
+print("------------- slicing the list list[ST:EI] -------------")
+
+mytuple = ('mango', 'apple', 'banana', 'gauva', 'cherry', 'kiwi', 'pomegranate')
+print("mytuple5[2:5] slice the with SI 2 & EI (n-1) i.e. 4 here -")
+print(mytuple[2:5])
+print("mytuple5[:6] slice the with SI as 0 as no SI mentioned & EI (n-1) i.e. 5 here -")
+print(mytuple[:6])
+print("mytuple5[3:] slice the with SI as 3 till end index as no EI mentioned here -")
+print(mytuple[3:])
+print("mytuple5[-1] gives item at last index in list -")
+print(mytuple[-1])
+print("mytuple5[-5:-1] slice list with SI as last 5th till last index-1")
+print(mytuple[-5:-1])
